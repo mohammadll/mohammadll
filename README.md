@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate devOps engineer</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadll&show_icons=true&locale=en&layout=compact" alt="mohammadll" /></p>
