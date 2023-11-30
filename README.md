@@ -7,6 +7,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadll&show_icons=true&locale=en" alt="mohammadll" /></p>
 
+<h2> My Skills </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
@@ -24,6 +25,7 @@
 <img src="https://seeklogo.com/images/K/kong-logo-30290787E5-seeklogo.com.png" alt="kong" width="50" height="50"/>
 </p>
 
+<h2> Socials </h2>
 <div align="left">
   <a href="https://www.youtube.com/playlist?list=PLYrn63eEqAzYttcyB6On1oH35O5rxgDt4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
