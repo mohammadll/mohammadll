@@ -23,6 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" width="50" height="50"/>
 <img src="https://seeklogo.com/images/T/traefik-logo-337D318F44-seeklogo.com.png" alt="traefik" width="50" height="50"/>
 <img src="https://seeklogo.com/images/K/kong-logo-30290787E5-seeklogo.com.png" alt="kong" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="50" height="50"/>
 </p>
 
 <h2> Socials </h2>
