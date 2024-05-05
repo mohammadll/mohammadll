@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 
 - 🌱 **I'm mohammad madanipour, A DevOps enginner with over three years of work experience**
-- 📫 **You can contact me at** **mmadanipour8@gmail.com**
+- 📫 **You can contact me at** **m.madanipourr@gmail.com**
+- :bulb: **I'm preparing a new course related to the Grafana LGTM stack, which will be released in a few months**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadll&show_icons=true&locale=en&layout=compact" alt="mohammadll" /></p>
 
