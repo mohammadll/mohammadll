@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 
-- 🌱 **I'm mohammad madanipour, A DevOps enginner with over three years of work experience**
+- 🌱 **I'm mohammad madanipour, A DevOps enginner who is working at Karakoo GmbH**
 - 📫 **You can contact me at** **m.madanipourr@gmail.com**
-- :bulb: **I'm preparing a new course related to the Grafana LGTM stack, which will be released in a few weeks**
+- :bulb: **My new course, titled 'Grafana LGTM,' has been published on the DevOps Hobbies YouTube channel.**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadll&show_icons=true&locale=en&layout=compact" alt="mohammadll" /></p>
 
