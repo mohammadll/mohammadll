@@ -2,7 +2,7 @@
 
 - 🌱 **I'm mohammad madanipour, A DevOps enginner who is working at Karakoo GmbH**
 - 📫 **You can contact me at** **m.madanipourr@gmail.com**
-- :bulb: **My new course, titled 'Grafana LGTM,' has been published on the DevOps Hobbies YouTube channel.**
+- :bulb: **I became a Grafana Champion by creating courses related to the Grafana LGTM Stack**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadll&show_icons=true&locale=en&layout=compact" alt="mohammadll" /></p>
 
